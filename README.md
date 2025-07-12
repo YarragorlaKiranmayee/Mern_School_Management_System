@@ -70,7 +70,7 @@ npm install
 npm start
 ```
 
-Frontend will be served at: [http://localhost:3000](http://localhost:3000)
+Frontend will be served at: [http://localhost:5173](http://localhost:5173)
 Backend runs at: [http://localhost:4000](http://localhost:4000)
 
 ---

@@ -53,7 +53,7 @@ npm install
 
 ```env
 PORT=4000
-MONGO_URI=your_mongodb_connection_string
+MONGO_URI=mongodb+srv://kiranmayee:kiranmayee@cluster0.4dxqeid.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 ```
 
 * Start the backend server:
